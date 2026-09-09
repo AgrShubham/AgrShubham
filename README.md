@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shubhamagrawal.code@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b1jghhJeVckcRkRteky30_ZND37fyA68/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SFD-Ic3pBVOctFawAAicqefNjS74XqmS/view?usp=drivesdk)
 
 - ⚡ Fun fact **I go by the nickname Shubh!**
 
