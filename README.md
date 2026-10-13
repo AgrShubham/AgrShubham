@@ -2,8 +2,11 @@
 
 # Shubham Agrawal
 
-**Software Development Engineer (SDE)**  
-*Low-Latency Systems • Networked Peripherals • Modern Web Architecture*
+<p align="center">
+  <a href="https://shubham-agrawal-portfolio.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Development+Engineer+(SDE);Low-Latency+Systems+%26+Networked+Peripherals;React+19+%E2%80%A2+TypeScript+5.8+%E2%80%A2+Tailwind+CSS+v4;Runner-up+%E2%80%94+Udaan+2024+CSI+National+Exhibition" alt="Typing SVG" />
+  </a>
+</p>
 
 India • [shubham-agrawal-portfolio.vercel.app](https://shubham-agrawal-portfolio.vercel.app/) • [shubhamagrawal.code@gmail.com](mailto:shubhamagrawal.code@gmail.com)
 
@@ -15,15 +18,29 @@ India • [shubham-agrawal-portfolio.vercel.app](https://shubham-agrawal-portfol
 [![Email](https://img.shields.io/badge/Email-shubhamagrawal.code%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:shubhamagrawal.code@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AgrShubham-181717?style=flat-square&logo=github)](https://github.com/AgrShubham)
 
-<br/>
+<br/><br/>
 
-<a href="https://shubham-agrawal-portfolio.vercel.app/">
-  <img src="https://raw.githubusercontent.com/AgrShubham/shubham-agrawal-portfolio/main/screen_recordings/desktop_scroll_session.gif" alt="Shubham Agrawal Interactive Portfolio Preview" width="880" style="border-radius: 12px; box-shadow: 0 16px 36px rgba(0,0,0,0.5);" />
-</a>
-
-<p align="center">
-  <sub>⚡ <b>Interactive Portfolio:</b> Built with React 19, TypeScript, and modern CSS • <a href="https://shubham-agrawal-portfolio.vercel.app/"><b>Explore Live Experience ↗</b></a></sub>
-</p>
+<table border="0">
+  <tr>
+    <td align="center">
+      <h3>🌐 Featured Live Portfolio: <a href="https://shubham-agrawal-portfolio.vercel.app/">shubham-agrawal-portfolio.vercel.app</a></h3>
+      <p>
+        <a href="https://shubham-agrawal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Status-Live_Production-10b981?style=flat-square&logo=vercel&logoColor=white" alt="Live Production"/></a>
+        <a href="https://github.com/AgrShubham/shubham-agrawal-portfolio"><img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/></a>
+        <img src="https://img.shields.io/badge/React-19.0-61dafb?style=flat-square&logo=react&logoColor=black" alt="React 19"/>
+        <img src="https://img.shields.io/badge/TypeScript-5.8-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Architecture-Dual--Mode_Canvas-8b5cf6?style=flat-square" alt="Architecture"/>
+        <img src="https://img.shields.io/badge/Performance-Sub--Second_LCP-f59e0b?style=flat-square" alt="Performance"/>
+      </p>
+      <p>
+        Engineered a responsive dual-mode digital portfolio with real-time interactive canvas background, glassmorphic UI architecture, and zero layout shift across mobile and desktop devices.
+      </p>
+      <p>
+        <a href="https://shubham-agrawal-portfolio.vercel.app/"><b>👉 Launch Interactive Portfolio Experience ↗</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -107,6 +124,13 @@ India • [shubham-agrawal-portfolio.vercel.app](https://shubham-agrawal-portfol
     </td>
   </tr>
 </table>
+
+```mermaid
+flowchart LR
+    A["📱 Smartphone App<br/>(Touch &amp; Gyro Sensor Engine)"] -->|"⚡ Direct UDP Datagrams (Port 5002)<br/>&lt;1ms Latency (Zero-Buffer)"| B["🖥️ Windows Daemon<br/>(Local Python Server)"]
+    A -.->|"📡 TCP Handshake &amp; Radar Discovery (Port 5001)"| B
+    B -->|"Direct OS SendInput<br/>(Win32 user32.dll)"| C["🎯 Windows Desktop Input<br/>(Driverless Cursor &amp; Gamepad)"]
+```
 
 - **UDP Motion Pipeline:** Cursor movements bypass TCP congestion control via asynchronous UDP datagrams (`Port 5002`) into Windows `SendInput` with **&lt;1ms execution latency**.
 - **Kinetic Ballistics:** Mathematical velocity acceleration (`v_smooth = v_raw * (1.0 + min(2.5, v_raw * 0.6))`) with 0.1px jitter deadband.
