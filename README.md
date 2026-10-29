@@ -17,6 +17,7 @@ India • [shubham-agrawal-portfolio.vercel.app](https://shubham-agrawal-portfol
 [![LeetCode](https://img.shields.io/badge/LeetCode-AgrShubham-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/AgrShubham)
 [![Email](https://img.shields.io/badge/Email-shubhamagrawal.code%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:shubhamagrawal.code@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AgrShubham-181717?style=flat-square&logo=github)](https://github.com/AgrShubham)
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/AgrShubham/badge.svg)](https://hub.xerj.org/contributors/AgrShubham)
 
 <br/><br/>
 
